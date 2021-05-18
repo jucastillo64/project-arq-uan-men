@@ -1,0 +1,1 @@
+CREATE USER project_arq_user with login ENCRYPTED PASSWORD ?;

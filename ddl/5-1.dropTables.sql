@@ -1,0 +1,1 @@
+DROP TABLE men_sa_2018_2019;

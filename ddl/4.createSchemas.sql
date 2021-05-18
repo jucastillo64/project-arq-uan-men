@@ -1,0 +1,2 @@
+
+CREATE SCHEMA IF NOT EXISTS situacion_academica_2018_2019;
