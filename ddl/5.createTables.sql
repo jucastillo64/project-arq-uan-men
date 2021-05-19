@@ -11,7 +11,7 @@ CREATE TABLE men_sa_2018_2019(
         NIVELENSE_CODIGO numeric(10, 0),
         NIVELENSE_NOMBRE varchar (60),
         GRADO_ID numeric(10, 0),
-        GRADO_CODIGO numeric(10, 0),
+        GRADO_CODIGO varchar(40),
         GRADO_NOMBRE varchar (60),
         SITUACADE_ID numeric(10, 0),
         SITUACADE_CODIGO numeric(10, 0),
